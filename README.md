@@ -1,12 +1,10 @@
 # KEGD-NP
 a dual-branch molecular classification framework that integrates molecular graph representations with 208 RDKit molecular descriptors
 
-<div align="center">
-<img src="https://github.com/JiaQ-Zhang/KEGD-NP/tree/main/figure/workflow.jpg" width=603 />
-</div>
+
 
 <div align="center">
-  <img src="./figure/workflow.jpg" alt="KEGD-NP workflow" width="603" />
+  <img src="./figure/workflow.jpg" alt="KEGD-NP workflow" width="750" />
 </div>
 
 
