@@ -1,31 +1,4 @@
 # KEGD-NP
-a dual-branch molecular classification framework that integrates molecular graph representations with 208 RDKit molecular descriptors
-
-
-
-<div align="center">
-  <img src="./figure/workflow.jpg" alt="KEGD-NP workflow" width="750" />
-</div>
-
-
-
-
-# Installation
-## Install Python
-
-Python 3.11.0 is recommended.
-
-[python](https://www.python.org)
-
-
-## Install dependent packages
-
-Install the required packages using:
-
-pip install -r requirements.txt
-
-
-# KEGD-NP
 
 A dual-branch molecular classification framework integrating molecular graph representations with 208 RDKit molecular descriptors for natural product biosource prediction.
 
@@ -73,16 +46,8 @@ python -m pip install -r requirements.txt
 
 
 
-## Reproducibility Notes
-
-- Keep the preprocessing procedure, descriptor definitions, and model configuration consistent with the selected checkpoint.
-- Use the same dataset ordering and filtering results when reconstructing a historical data split.
-- Keep each checkpoint paired with its corresponding feature dictionaries and preprocessing artifacts.
-- Example data are intended to demonstrate file formats and code usage, rather than reproduce the reported benchmark results.
-- Complete experimental reproduction requires the corresponding full datasets and trained artifacts.
-
 ## Acknowledgements
 
 We acknowledge NPBS Atlas for providing the natural product biological-source data used in this study, and the developers of RDKit, PyTorch, and SHAP for their open-source tools.
 
-Please cite the original NPBS Atlas publication when using its data.
+
