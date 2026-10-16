@@ -1,0 +1,10 @@
+
+Python=3.11.0
+shap==0.51.0
+numpy==1.26.4
+pandas==3.0.2
+torch==2.11.0+cu130
+rdkit-pypi==2022.9.5
+scikit-learn==1.8.0
+matplotlib==3.10.8
+tqdm==4.67.3
