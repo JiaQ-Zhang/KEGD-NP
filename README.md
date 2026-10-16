@@ -5,7 +5,9 @@ a dual-branch molecular classification framework that integrates molecular graph
 <img src="https://github.com/JiaQ-Zhang/KEGD-NP/tree/main/figure/workflow.jpg" width=603 />
 </div>
 
-
+<div align="center">
+  <img src="./figure/workflow.jpg" alt="KEGD-NP workflow" width="603" />
+</div>
 
 
 
